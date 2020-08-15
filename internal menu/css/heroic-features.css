@@ -7,14 +7,35 @@ body {
   padding-top: 56px;
 }
 
+a {
+  color: #000000;
+}
+
+a:hover {
+  color:#000000;
+  text-decoration: none;
+}
+
 .bio {
   background: #adebad;
+}
+
+.bio:hover {
+  background: #98e698;
 }
 
 .phy {
   background: #99ccff;
 }
 
+.phy:hover {
+  background: #66b3ff
+}
+
 .chem {
   background: #ff9999;
+}
+
+.chem:hover {
+  background: #ff6666;
 }
